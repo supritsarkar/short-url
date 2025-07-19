@@ -4,12 +4,6 @@ Create your own URL shortener with Node.js and MongoDB, following the tutorial f
 
 ---
 
-## 📽️ Video Tutorial
-
-The full walkthrough is available here:  
-https://youtu.be/4WvX9dBjiJo?si=xg8Pj5RNbpdKa8_i
-
----
 
 ## 📝 Overview
 
