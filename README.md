@@ -1,6 +1,6 @@
 # 🔗 Custom URL Shortener
 
-Create your own URL shortener with Node.js and MongoDB, following the tutorial from this awesome video by *YouTube User* :contentReference[oaicite:1]{index=1}.
+Create your own URL shortener with Node.js and MongoDB.
 
 ---
 
